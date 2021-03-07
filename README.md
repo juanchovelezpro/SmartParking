@@ -1,2 +1,5 @@
-# SmartParking
-SmartParking es un proyecto realizado en una placa de desarrollo Arduino que consiste en un parqueadero inteligente que con sensores detecta si los puestos de un parqueadero se encuentran ocupados e informa al público los parqueaderos restantes en una pantalla antes de entrar al parqueadero.
+# Smart Parking
+
+SmartParking is a project realized on an Arduino development board that consists of an intelligent parking lot that uses sensors to detect if the parking spaces are occupied and informs the public of the remaining parking spaces on a LCD screen before entering the parking.
+
+![Smart Parking](./ReadmeFiles/SmartParking.PNG)
